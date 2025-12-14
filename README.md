@@ -18,7 +18,7 @@ A simple RESTful API built with Python and Flask to track and manage expenses.
 ## Getting Started
 **Clone the repository**
 ```bash
-git clone https://github.com/xxxx/expense-tracker-api.git
+git clone https://github.com/izzetp/expense-tracker-api.git
 cd expense-tracker-api
 ```
 
