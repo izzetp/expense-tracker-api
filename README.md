@@ -51,8 +51,8 @@ python app.py
 **POST** `/expenses`
 ```json
 {
-  "amount": 25.50,
   "category": "Food",
+  "amount": 25.50,
   "date": "2025-12-10",
   "description": "Lunch"
 }
